@@ -39,9 +39,9 @@ yarn add @slate-editor/bold-plugin
 Here is a quick example to get you started:
 
 ```js
-import React from 'react'
+import * as React from 'react'
 import { SlateEditor, SlateToolbar, SlateContent } from 'slate-editor'
-import { BoldPlugin, BoldButtonBar } from '@slate-editor/bold-plugin'
+import { BoldPlugin, BoldButtonBar } from 'packages/slate-editor-bold-plugin'
 
 const plugins = [
   BoldPlugin()

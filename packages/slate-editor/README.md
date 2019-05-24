@@ -35,9 +35,9 @@ In the example below we only add the **[bold](../slate-editor-bold-plugin)** plu
 
 **Basic example**
 ```jsx
-import React from 'react'
+import * as React from 'react'
 import { SlateEditor, SlateToolbar, SlateContent } from 'slate-editor'
-import { BoldPlugin, BoldButton } from '@slate-editor/bold-plugin'
+import { BoldPlugin, BoldButton } from 'packages/slate-editor-bold-plugin'
 
 const plugins = [BoldPlugin()]
 

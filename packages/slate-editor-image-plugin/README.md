@@ -39,9 +39,9 @@ yarn add @slate-editor/image-plugin
 Here is a quick example to get you started:
 
 ```js
-import React from 'react'
+import * as React from 'react'
 import { SlateEditor, SlateToolbar, SlateContent } from 'slate-editor'
-import { ImagePlugin, ImageButton } from '@slate-editor/image-plugin'
+import { ImagePlugin, ImageButton } from 'packages/slate-editor-image-plugin'
 
 const plugins = [
   ImagePlugin()

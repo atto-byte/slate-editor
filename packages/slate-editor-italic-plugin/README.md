@@ -39,9 +39,9 @@ yarn add @slate-editor/italic-plugin
 Here is a quick example to get you started:
 
 ```js
-import React from 'react'
+import * as React from 'react'
 import { SlateEditor, SlateToolbar, SlateContent } from 'slate-editor'
-import { ItalicPlugin, ItalicButton } from '@slate-editor/italic-plugin'
+import { ItalicPlugin, ItalicButton } from 'packages/slate-editor-italic-plugin'
 
 const plugins = [
   ItalicPlugin()

@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "declarationDir": "./dist",
+    "baseUrl": ".",
+    "module": "es6",
+    "lib": ["es6", "dom", "esnext.asynciterable"],
+    "strict": false,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "noUnusedParameters": false,
+    "strictNullChecks": false,
+    "moduleResolution": "node",
+    "noImplicitAny": false,
+    "outDir": "./dist",
+    "target": "es5",
+    "jsx": "react",
+    "skipLibCheck": true,
+    "esModuleInterop":true
+  },
+  "include": ["packages/**/*"],
+  "exclude": ["node_modules"]
+}

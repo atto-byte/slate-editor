@@ -39,9 +39,9 @@ yarn add @slate-editor/alignment-plugin
 Here is a quick example to get you started:
 
 ```js
-import React from 'react'
+import * as React from 'react'
 import { SlateEditor, SlateToolbar, SlateContent } from 'slate-editor'
-import { AlignmentPlugin, AlignmentButtonBar } from '@slate-editor/alignment-plugin'
+import { AlignmentPlugin, AlignmentButtonBar } from 'packages/slate-editor-alignment-plugin'
 
 const plugins = [
   AlignmentPlugin()

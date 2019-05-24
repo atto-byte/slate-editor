@@ -39,9 +39,9 @@ yarn add @slate-editor/font-family-plugin
 Here is a quick example to get you started:
 
 ```js
-import React from 'react'
+import * as React from 'react'
 import { SlateEditor, SlateToolbar, SlateContent } from 'slate-editor'
-import { FontFamilyPlugin, FontFamilyDropdown } from '@slate-editor/font-family-plugin'
+import { FontFamilyPlugin, FontFamilyDropdown } from 'packages/slate-editor-font-family-plugin'
 
 const plugins = [
   FontFamilyPlugin()

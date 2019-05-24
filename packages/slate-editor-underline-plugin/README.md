@@ -39,9 +39,9 @@ yarn add @slate-editor/underline-plugin
 Here is a quick example to get you started:
 
 ```js
-import React from 'react'
+import * as React from 'react'
 import { SlateEditor, SlateToolbar, SlateContent } from 'slate-editor'
-import { UnderlinePlugin, UnderlineButton } from '@slate-editor/underline-plugin'
+import { UnderlinePlugin, UnderlineButton } from 'packages/slate-editor-underline-plugin'
 
 const plugins = [
   UnderlinePlugin()

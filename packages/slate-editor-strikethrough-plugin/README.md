@@ -39,9 +39,9 @@ yarn add @slate-editor/strikethrough-plugin
 Here is a quick example to get you started:
 
 ```js
-import React from 'react'
+import * as React from 'react'
 import { SlateEditor, SlateToolbar, SlateContent } from 'slate-editor'
-import { StrikethroughPlugin, StrikethroughButton } from '@slate-editor/strikethrough-plugin'
+import { StrikethroughPlugin, StrikethroughButton } from 'packages/slate-editor-strikethrough-plugin'
 
 const plugins = [
   StrikethroughPlugin()

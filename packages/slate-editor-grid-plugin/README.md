@@ -39,9 +39,9 @@ yarn add @slate-editor/grid-plugin
 Here is a quick example to get you started:
 
 ```js
-import React from 'react'
+import * as React from 'react'
 import { SlateEditor, SlateToolbar, SlateContent } from 'slate-editor'
-import { GridPlugin, GridButtonBar } from '@slate-editor/grid-plugin'
+import { GridPlugin, GridButtonBar } from 'packages/slate-editor-grid-plugin'
 
 const plugins = [
   GridPlugin()

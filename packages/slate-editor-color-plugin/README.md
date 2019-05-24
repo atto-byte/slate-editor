@@ -39,9 +39,9 @@ yarn add @slate-editor/color-plugin
 Here is a quick example to get you started:
 
 ```js
-import React from 'react'
+import * as React from 'react'
 import { SlateEditor, SlateToolbar, SlateContent } from 'slate-editor'
-import { ColorPlugin, ColorButton, ColorStateModel } from '@slate-editor/color-plugin'
+import { ColorPlugin, ColorButton, ColorStateModel } from 'packages/slate-editor-color-plugin'
 
 const colorPluginOptions = new ColorStateModel().rgba({ r: 100, g: 100, b: 100, a: 1 }).gen()
 
