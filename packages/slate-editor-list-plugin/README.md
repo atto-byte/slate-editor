@@ -41,7 +41,7 @@ Here is a quick example to get you started:
 ```js
 import * as React from 'react'
 import { SlateEditor, SlateToolbar, SlateContent } from 'slate-editor'
-import { ListPlugin, ListButtonBar } from 'packages/slate-editor-list-plugin'
+import { ListPlugin, ListButtonBar } from '../slate-editor-list-plugin'
 
 const plugins = [
   ListPlugin()

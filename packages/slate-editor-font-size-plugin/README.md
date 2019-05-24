@@ -41,7 +41,7 @@ Here is a quick example to get you started:
 ```js
 import * as React from 'react'
 import { SlateEditor, SlateToolbar, SlateContent } from 'slate-editor'
-import { FontSizePlugin, FontSizeInput } from 'packages/slate-editor-font-size-plugin'
+import { FontSizePlugin, FontSizeInput } from '../slate-editor-font-size-plugin'
 
 const fontSizePluginOptions = { initialFontSize: 16 }
 

@@ -41,7 +41,7 @@ Here is a quick example to get you started:
 ```js
 import * as React from 'react'
 import { SlateEditor, SlateToolbar, SlateContent } from 'slate-editor'
-import { UnderlinePlugin, UnderlineButton } from 'packages/slate-editor-underline-plugin'
+import { UnderlinePlugin, UnderlineButton } from '../slate-editor-underline-plugin'
 
 const plugins = [
   UnderlinePlugin()

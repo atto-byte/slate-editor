@@ -16,7 +16,10 @@
     "target": "es5",
     "jsx": "react",
     "skipLibCheck": true,
-    "esModuleInterop":true
+    "esModuleInterop":true,
+    "paths": {
+      "packages/*": ["./packages/*"],
+    }
   },
   "include": ["packages/**/*"],
   "exclude": ["node_modules"]

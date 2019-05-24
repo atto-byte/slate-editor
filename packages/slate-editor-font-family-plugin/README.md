@@ -41,7 +41,7 @@ Here is a quick example to get you started:
 ```js
 import * as React from 'react'
 import { SlateEditor, SlateToolbar, SlateContent } from 'slate-editor'
-import { FontFamilyPlugin, FontFamilyDropdown } from 'packages/slate-editor-font-family-plugin'
+import { FontFamilyPlugin, FontFamilyDropdown } from '../slate-editor-font-family-plugin'
 
 const plugins = [
   FontFamilyPlugin()

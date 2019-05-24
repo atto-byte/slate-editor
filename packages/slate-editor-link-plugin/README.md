@@ -41,7 +41,7 @@ Here is a quick example to get you started:
 ```js
 import * as React from 'react'
 import { SlateEditor, SlateToolbar, SlateContent } from 'slate-editor'
-import { LinkPlugin, LinkButton } from 'packages/slate-editor-link-plugin'
+import { LinkPlugin, LinkButton } from '../slate-editor-link-plugin'
 
 const plugins = [
   LinkPlugin()

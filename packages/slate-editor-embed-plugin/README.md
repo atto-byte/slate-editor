@@ -41,7 +41,7 @@ Here is a quick example to get you started:
 ```js
 import * as React from 'react'
 import { SlateEditor, SlateToolbar, SlateContent } from 'slate-editor'
-import { EmbedPlugin, EmbedButton } from 'packages/slate-editor-embed-plugin'
+import { EmbedPlugin, EmbedButton } from '../slate-editor-embed-plugin'
 
 const plugins = [
   EmbedPlugin()
