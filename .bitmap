@@ -235,258 +235,6 @@
         "origin": "AUTHORED",
         "exported": true
     },
-    "atto-byte.slate-mui/slate/slate-editor-color-plugin@1.0.2": {
-        "files": [
-            {
-                "relativePath": "packages/slate-editor-color-plugin/CHANGELOG.md",
-                "test": false,
-                "name": "CHANGELOG.md"
-            },
-            {
-                "relativePath": "packages/slate-editor-color-plugin/ColorButton.css",
-                "test": false,
-                "name": "ColorButton.css"
-            },
-            {
-                "relativePath": "packages/slate-editor-color-plugin/ColorButton.tsx",
-                "test": false,
-                "name": "ColorButton.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-color-plugin/ColorKeyboardShortcut.tsx",
-                "test": false,
-                "name": "ColorKeyboardShortcut.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-color-plugin/ColorMark.tsx",
-                "test": false,
-                "name": "ColorMark.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-color-plugin/ColorStateModel.tsx",
-                "test": false,
-                "name": "ColorStateModel.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-color-plugin/ColorUtils.tsx",
-                "test": false,
-                "name": "ColorUtils.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-color-plugin/DraggableColorPicker.css",
-                "test": false,
-                "name": "DraggableColorPicker.css"
-            },
-            {
-                "relativePath": "packages/slate-editor-color-plugin/DraggableColorPicker.tsx",
-                "test": false,
-                "name": "DraggableColorPicker.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-color-plugin/README.md",
-                "test": false,
-                "name": "README.md"
-            },
-            {
-                "relativePath": "packages/slate-editor-color-plugin/index.tsx",
-                "test": false,
-                "name": "index.tsx"
-            }
-        ],
-        "mainFile": "packages/slate-editor-color-plugin/index.tsx",
-        "trackDir": "packages/slate-editor-color-plugin",
-        "origin": "AUTHORED",
-        "exported": true
-    },
-    "atto-byte.slate-mui/slate/slate-editor-embed-plugin@1.0.2": {
-        "files": [
-            {
-                "relativePath": "packages/slate-editor-embed-plugin/CHANGELOG.md",
-                "test": false,
-                "name": "CHANGELOG.md"
-            },
-            {
-                "relativePath": "packages/slate-editor-embed-plugin/EmbedButton.css",
-                "test": false,
-                "name": "EmbedButton.css"
-            },
-            {
-                "relativePath": "packages/slate-editor-embed-plugin/EmbedButton.tsx",
-                "test": false,
-                "name": "EmbedButton.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-embed-plugin/EmbedKeyboardShortcut.tsx",
-                "test": false,
-                "name": "EmbedKeyboardShortcut.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-embed-plugin/EmbedNode.css",
-                "test": false,
-                "name": "EmbedNode.css"
-            },
-            {
-                "relativePath": "packages/slate-editor-embed-plugin/EmbedNode.tsx",
-                "test": false,
-                "name": "EmbedNode.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-embed-plugin/EmbedUtils.tsx",
-                "test": false,
-                "name": "EmbedUtils.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-embed-plugin/README.md",
-                "test": false,
-                "name": "README.md"
-            },
-            {
-                "relativePath": "packages/slate-editor-embed-plugin/index.tsx",
-                "test": false,
-                "name": "index.tsx"
-            }
-        ],
-        "mainFile": "packages/slate-editor-embed-plugin/index.tsx",
-        "trackDir": "packages/slate-editor-embed-plugin",
-        "origin": "AUTHORED",
-        "exported": true
-    },
-    "atto-byte.slate-mui/slate/slate-editor-grid-plugin@1.0.2": {
-        "files": [
-            {
-                "relativePath": "packages/slate-editor-grid-plugin/CHANGELOG.md",
-                "test": false,
-                "name": "CHANGELOG.md"
-            },
-            {
-                "relativePath": "packages/slate-editor-grid-plugin/GridButton.tsx",
-                "test": false,
-                "name": "GridButton.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-grid-plugin/GridButtonBar.css",
-                "test": false,
-                "name": "GridButtonBar.css"
-            },
-            {
-                "relativePath": "packages/slate-editor-grid-plugin/GridButtonBar.tsx",
-                "test": false,
-                "name": "GridButtonBar.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-grid-plugin/GridCellNode.tsx",
-                "test": false,
-                "name": "GridCellNode.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-grid-plugin/GridKeyboardShortcut.tsx",
-                "test": false,
-                "name": "GridKeyboardShortcut.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-grid-plugin/GridNode.tsx",
-                "test": false,
-                "name": "GridNode.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-grid-plugin/GridRowNode.tsx",
-                "test": false,
-                "name": "GridRowNode.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-grid-plugin/GridSplitRowButton.tsx",
-                "test": false,
-                "name": "GridSplitRowButton.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-grid-plugin/GridUtils.tsx",
-                "test": false,
-                "name": "GridUtils.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-grid-plugin/README.md",
-                "test": false,
-                "name": "README.md"
-            },
-            {
-                "relativePath": "packages/slate-editor-grid-plugin/index.tsx",
-                "test": false,
-                "name": "index.tsx"
-            }
-        ],
-        "mainFile": "packages/slate-editor-grid-plugin/index.tsx",
-        "trackDir": "packages/slate-editor-grid-plugin",
-        "origin": "AUTHORED",
-        "exported": true
-    },
-    "atto-byte.slate-mui/slate/slate-editor-image-plugin@1.0.2": {
-        "files": [
-            {
-                "relativePath": "packages/slate-editor-image-plugin/CHANGELOG.md",
-                "test": false,
-                "name": "CHANGELOG.md"
-            },
-            {
-                "relativePath": "packages/slate-editor-image-plugin/ImageButton.tsx",
-                "test": false,
-                "name": "ImageButton.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-image-plugin/ImageDataModal.tsx",
-                "test": false,
-                "name": "ImageDataModal.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-image-plugin/ImageEditLayer.css",
-                "test": false,
-                "name": "ImageEditLayer.css"
-            },
-            {
-                "relativePath": "packages/slate-editor-image-plugin/ImageEditLayer.tsx",
-                "test": false,
-                "name": "ImageEditLayer.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-image-plugin/ImageKeyboardShortcut.tsx",
-                "test": false,
-                "name": "ImageKeyboardShortcut.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-image-plugin/ImageLinkNode.tsx",
-                "test": false,
-                "name": "ImageLinkNode.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-image-plugin/ImageNode.css",
-                "test": false,
-                "name": "ImageNode.css"
-            },
-            {
-                "relativePath": "packages/slate-editor-image-plugin/ImageNode.tsx",
-                "test": false,
-                "name": "ImageNode.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-image-plugin/ImageUtils.tsx",
-                "test": false,
-                "name": "ImageUtils.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-image-plugin/README.md",
-                "test": false,
-                "name": "README.md"
-            },
-            {
-                "relativePath": "packages/slate-editor-image-plugin/index.tsx",
-                "test": false,
-                "name": "index.tsx"
-            }
-        ],
-        "mainFile": "packages/slate-editor-image-plugin/index.tsx",
-        "trackDir": "packages/slate-editor-image-plugin",
-        "origin": "AUTHORED",
-        "exported": true
-    },
     "atto-byte.slate-mui/slate/slate-editor-italic-plugin@1.0.2": {
         "files": [
             {
@@ -530,150 +278,6 @@
         "origin": "AUTHORED",
         "exported": true
     },
-    "atto-byte.slate-mui/slate/slate-editor-link-plugin@1.0.2": {
-        "files": [
-            {
-                "relativePath": "packages/slate-editor-link-plugin/CHANGELOG.md",
-                "test": false,
-                "name": "CHANGELOG.md"
-            },
-            {
-                "relativePath": "packages/slate-editor-link-plugin/LinkButton.tsx",
-                "test": false,
-                "name": "LinkButton.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-link-plugin/LinkDataModal.tsx",
-                "test": false,
-                "name": "LinkDataModal.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-link-plugin/LinkKeyboardShortcut.tsx",
-                "test": false,
-                "name": "LinkKeyboardShortcut.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-link-plugin/LinkNode.css",
-                "test": false,
-                "name": "LinkNode.css"
-            },
-            {
-                "relativePath": "packages/slate-editor-link-plugin/LinkNode.tsx",
-                "test": false,
-                "name": "LinkNode.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-link-plugin/LinkUtils.tsx",
-                "test": false,
-                "name": "LinkUtils.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-link-plugin/README.md",
-                "test": false,
-                "name": "README.md"
-            },
-            {
-                "relativePath": "packages/slate-editor-link-plugin/index.tsx",
-                "test": false,
-                "name": "index.tsx"
-            }
-        ],
-        "mainFile": "packages/slate-editor-link-plugin/index.tsx",
-        "trackDir": "packages/slate-editor-link-plugin",
-        "origin": "AUTHORED",
-        "exported": true
-    },
-    "atto-byte.slate-mui/slate/slate-editor-list-plugin@1.0.2": {
-        "files": [
-            {
-                "relativePath": "packages/slate-editor-list-plugin/CHANGELOG.md",
-                "test": false,
-                "name": "CHANGELOG.md"
-            },
-            {
-                "relativePath": "packages/slate-editor-list-plugin/ListButtonBar.css",
-                "test": false,
-                "name": "ListButtonBar.css"
-            },
-            {
-                "relativePath": "packages/slate-editor-list-plugin/ListButtonBar.tsx",
-                "test": false,
-                "name": "ListButtonBar.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-list-plugin/ListItemNode.tsx",
-                "test": false,
-                "name": "ListItemNode.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-list-plugin/ListKeyboardShortcut.tsx",
-                "test": false,
-                "name": "ListKeyboardShortcut.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-list-plugin/ListUtils.tsx",
-                "test": false,
-                "name": "ListUtils.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-list-plugin/OrderedListButton.tsx",
-                "test": false,
-                "name": "OrderedListButton.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-list-plugin/OrderedListNode.tsx",
-                "test": false,
-                "name": "OrderedListNode.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-list-plugin/README.md",
-                "test": false,
-                "name": "README.md"
-            },
-            {
-                "relativePath": "packages/slate-editor-list-plugin/UnorderedListButton.tsx",
-                "test": false,
-                "name": "UnorderedListButton.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-list-plugin/UnorderedListNode.tsx",
-                "test": false,
-                "name": "UnorderedListNode.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-list-plugin/index.tsx",
-                "test": false,
-                "name": "index.tsx"
-            }
-        ],
-        "mainFile": "packages/slate-editor-list-plugin/index.tsx",
-        "trackDir": "packages/slate-editor-list-plugin",
-        "origin": "AUTHORED",
-        "exported": true
-    },
-    "atto-byte.slate-mui/slate/slate-editor-state-logger@1.0.2": {
-        "files": [
-            {
-                "relativePath": "packages/slate-editor-state-logger/CHANGELOG.md",
-                "test": false,
-                "name": "CHANGELOG.md"
-            },
-            {
-                "relativePath": "packages/slate-editor-state-logger/StateLoggerButton.tsx",
-                "test": false,
-                "name": "StateLoggerButton.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-state-logger/index.tsx",
-                "test": false,
-                "name": "index.tsx"
-            }
-        ],
-        "mainFile": "packages/slate-editor-state-logger/index.tsx",
-        "trackDir": "packages/slate-editor-state-logger",
-        "origin": "AUTHORED",
-        "exported": true
-    },
     "atto-byte.slate-mui/slate/slate-editor-strikethrough-plugin@1.0.2": {
         "files": [
             {
@@ -714,29 +318,6 @@
         ],
         "mainFile": "packages/slate-editor-strikethrough-plugin/index.tsx",
         "trackDir": "packages/slate-editor-strikethrough-plugin",
-        "origin": "AUTHORED",
-        "exported": true
-    },
-    "atto-byte.slate-mui/slate/slate-editor-toggle-readonly@1.0.2": {
-        "files": [
-            {
-                "relativePath": "packages/slate-editor-toggle-readonly/CHANGELOG.md",
-                "test": false,
-                "name": "CHANGELOG.md"
-            },
-            {
-                "relativePath": "packages/slate-editor-toggle-readonly/ToggleReadOnlyButton.tsx",
-                "test": false,
-                "name": "ToggleReadOnlyButton.tsx"
-            },
-            {
-                "relativePath": "packages/slate-editor-toggle-readonly/index.tsx",
-                "test": false,
-                "name": "index.tsx"
-            }
-        ],
-        "mainFile": "packages/slate-editor-toggle-readonly/index.tsx",
-        "trackDir": "packages/slate-editor-toggle-readonly",
         "origin": "AUTHORED",
         "exported": true
     },
@@ -1024,6 +605,76 @@
         ],
         "mainFile": "packages/italic-plugin/index.tsx",
         "trackDir": "packages/italic-plugin",
+        "origin": "AUTHORED",
+        "exported": true
+    },
+    "atto-byte.slate-mui/plugin/strikethrough@1.0.0": {
+        "files": [
+            {
+                "relativePath": "packages/strikethrough/index.tsx",
+                "test": false,
+                "name": "index.tsx"
+            }
+        ],
+        "mainFile": "packages/strikethrough/index.tsx",
+        "trackDir": "packages/strikethrough",
+        "origin": "AUTHORED",
+        "exported": true
+    },
+    "atto-byte.slate-mui/plugin/underline@1.3.0": {
+        "files": [
+            {
+                "relativePath": "packages/underline/index.tsx",
+                "test": false,
+                "name": "index.tsx"
+            }
+        ],
+        "mainFile": "packages/underline/index.tsx",
+        "trackDir": "packages/underline",
+        "origin": "AUTHORED",
+        "exported": true
+    },
+    "atto-byte.slate-mui/plugin/bold@1.3.0": {
+        "files": [
+            {
+                "relativePath": "packages/bold/index.tsx",
+                "test": false,
+                "name": "index.tsx"
+            }
+        ],
+        "mainFile": "packages/bold/index.tsx",
+        "trackDir": "packages/bold",
+        "origin": "AUTHORED",
+        "exported": true
+    },
+    "atto-byte.slate-mui/plugin/italic@1.3.0": {
+        "files": [
+            {
+                "relativePath": "packages/italic/index.tsx",
+                "test": false,
+                "name": "index.tsx"
+            }
+        ],
+        "mainFile": "packages/italic/index.tsx",
+        "trackDir": "packages/italic",
+        "origin": "AUTHORED",
+        "exported": true
+    },
+    "atto-byte.slate-mui/plugin/alignment@1.3.0": {
+        "files": [
+            {
+                "relativePath": "packages/alignment/AlignmentNode.tsx",
+                "test": false,
+                "name": "AlignmentNode.tsx"
+            },
+            {
+                "relativePath": "packages/alignment/index.tsx",
+                "test": false,
+                "name": "index.tsx"
+            }
+        ],
+        "mainFile": "packages/alignment/index.tsx",
+        "trackDir": "packages/alignment",
         "origin": "AUTHORED",
         "exported": true
     },
