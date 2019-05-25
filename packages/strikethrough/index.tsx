@@ -23,6 +23,6 @@ const StrikethroughButton: React.SFC<MarkButtonProps> = ({hasMark, editor}) => {
 const StrikethroughPlugin: MarkPlugin = {
   type,
   Button: StrikethroughButton,
-  render: ({ children, mark, attributes }) => <strong {...attributes}>{children}</strong>
+  render: ({ children, mark, attributes }) => <del {...attributes}>{children}</del>
 }
 export { StrikethroughButton, StrikethroughPlugin }

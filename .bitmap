@@ -608,19 +608,6 @@
         "origin": "AUTHORED",
         "exported": true
     },
-    "atto-byte.slate-mui/plugin/strikethrough@1.0.0": {
-        "files": [
-            {
-                "relativePath": "packages/strikethrough/index.tsx",
-                "test": false,
-                "name": "index.tsx"
-            }
-        ],
-        "mainFile": "packages/strikethrough/index.tsx",
-        "trackDir": "packages/strikethrough",
-        "origin": "AUTHORED",
-        "exported": true
-    },
     "atto-byte.slate-mui/plugin/underline@1.3.0": {
         "files": [
             {
@@ -675,6 +662,19 @@
         ],
         "mainFile": "packages/alignment/index.tsx",
         "trackDir": "packages/alignment",
+        "origin": "AUTHORED",
+        "exported": true
+    },
+    "atto-byte.slate-mui/plugin/strikethrough@1.3.1": {
+        "files": [
+            {
+                "relativePath": "packages/strikethrough/index.tsx",
+                "test": false,
+                "name": "index.tsx"
+            }
+        ],
+        "mainFile": "packages/strikethrough/index.tsx",
+        "trackDir": "packages/strikethrough",
         "origin": "AUTHORED",
         "exported": true
     },
