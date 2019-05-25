@@ -678,5 +678,28 @@
         "origin": "AUTHORED",
         "exported": true
     },
+    "atto-byte.slate-mui/plugin/font-family@1.0.1": {
+        "files": [
+            {
+                "relativePath": "packages/font-family/FontFamilyList.tsx",
+                "test": false,
+                "name": "FontFamilyList.tsx"
+            },
+            {
+                "relativePath": "packages/font-family/FontFamilyUtils.tsx",
+                "test": false,
+                "name": "FontFamilyUtils.tsx"
+            },
+            {
+                "relativePath": "packages/font-family/index.tsx",
+                "test": false,
+                "name": "index.tsx"
+            }
+        ],
+        "mainFile": "packages/font-family/index.tsx",
+        "trackDir": "packages/font-family",
+        "origin": "AUTHORED",
+        "exported": true
+    },
     "version": "14.1.1"
 }
