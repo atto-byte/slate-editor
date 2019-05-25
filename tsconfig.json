@@ -7,6 +7,7 @@
     "lib": ["es6", "dom", "esnext.asynciterable"],
     "strict": false,
     "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true,
     "sourceMap": true,
     "noUnusedParameters": false,
     "strictNullChecks": false,

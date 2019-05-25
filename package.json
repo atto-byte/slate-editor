@@ -18,6 +18,8 @@
         "@babel/cli": "^7.4.4",
         "@babel/core": "^7.4.5",
         "@babel/preset-react": "^7.0.0",
+        "@types/slate": "^0.44.8",
+        "@types/slate-react": "^0.21.2",
         "dotenv": "^5.0.1",
         "lerna": "^2.7.1",
         "rimraf": "^2.6.2"
@@ -34,6 +36,7 @@
         "@material-ui/icons": "^4.0.0-rc.0",
         "@material-ui/styles": "^4.0.0-rc.0",
         "classnames": "^2.2.6",
+        "emotion": "^10.0.9",
         "enzyme": "^3.9.0",
         "enzyme-adapter-react-16": "^1.13.1",
         "json-beautify": "^1.1.0",
