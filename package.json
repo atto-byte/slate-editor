@@ -1,52 +1,59 @@
 {
-  "private": true,
-  "license": "MIT",
-  "scripts": {
-    "dev": "yarn install && node -r dotenv/config ./node_modules/.bin/lerna run start --parallel",
-    "start": "yarn install && ./node_modules/.bin/lerna run start --parallel",
-    "boot": "./node_modules/.bin/lerna bootstrap",
-    "test": "./node_modules/.bin/lerna run test",
-    "prepublish": "rimraf packages/**/dist",
-    "prepare": "./node_modules/.bin/lerna run prepare",
-    "release:alpha": "./node_modules/.bin/lerna publish --canary=alpha",
-    "version-bump": "./node_modules/.bin/lerna publish --conventional-commits --skip-npm"
-  },
-  "workspaces": [
-    "packages/*"
-  ],
-  "devDependencies": {
-    "@babel/cli": "^7.4.4",
-    "@babel/core": "^7.4.5",
-    "@babel/preset-react": "^7.0.0",
-    "@types/slate": "^0.44.8",
-    "@types/slate-react": "^0.21.2",
-    "dotenv": "^5.0.1",
-    "lerna": "^2.7.1",
-    "rimraf": "^2.6.2"
-  },
-  "bit": {
-    "env": {
-      "compiler": "atto-byte.env/compiler/react-typescript@1.0.1"
+    "name": "example",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@material-ui/core": "^4.0.1",
+        "@material-ui/icons": "^4.0.1",
+        "@material-ui/styles": "^4.0.1",
+        "@types/jest": "24.0.13",
+        "@types/node": "12.0.3",
+        "@types/react": "16.8.19",
+        "@types/react-dom": "16.8.4",
+        "@types/slate": "^0.44.8",
+        "@types/slate-react": "^0.22.0",
+        "emotion": "^10.0.9",
+        "image-extensions": "^1.1.0",
+        "immutable": "^4.0.0-rc.12",
+        "is-hotkey": "^0.1.4",
+        "is-url": "^1.2.4",
+        "react": "^16.8.6",
+        "react-dom": "^16.8.6",
+        "react-scripts": "3.0.1",
+        "slate": "^0.47.3",
+        "slate-react": "^0.22.3",
+        "typescript": "3.5.1"
     },
-    "componentsDefaultDirectory": "packages/{name}",
-    "packageManager": "yarn"
-  },
-  "dependencies": {
-    "@material-ui/core": "^4.0.0-rc.0",
-    "@material-ui/icons": "^4.0.0-rc.0",
-    "@material-ui/styles": "^4.0.0-rc.0",
-    "classnames": "^2.2.6",
-    "emotion": "^10.0.9",
-    "enzyme": "^3.9.0",
-    "enzyme-adapter-react-16": "^1.13.1",
-    "json-beautify": "^1.1.0",
-    "react": "^16.8.6",
-    "react-color": "^2.17.3",
-    "react-dom": "^16.8.6",
-    "react-draggable": "^3.3.0",
-    "react-fontawesome": "^1.6.1",
-    "react-s3-uploader": "^4.8.0",
-    "slate": "^0.47.3",
-    "slate-react": "^0.22.3"
-  }
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+        "extends": "react-app"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "devDependencies": {
+        "@types/is-hotkey": "^0.1.1",
+        "@types/is-url": "^1.2.28"
+    },
+    "bit": {
+        "env": {
+            "compiler": "atto-byte.env/compiler/react-typescript@1.0.1"
+        },
+        "componentsDefaultDirectory": "src/components/{name}",
+        "packageManager": "yarn"
+    }
 }

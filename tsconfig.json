@@ -1,10 +1,11 @@
 {
   "compilerOptions": {
-    "declaration": true,
-    "declarationDir": "./dist",
-    "baseUrl": ".",
-    "module": "es6",
-    "lib": ["es6", "dom", "esnext.asynciterable"],
+    "module": "esnext",
+    "lib": [
+      "es6",
+      "dom",
+      "esnext.asynciterable"
+    ],
     "strict": false,
     "allowSyntheticDefaultImports": true,
     "resolveJsonModule": true,
@@ -15,13 +16,15 @@
     "noImplicitAny": false,
     "outDir": "./dist",
     "target": "es5",
-    "jsx": "react",
+    "jsx": "preserve",
     "skipLibCheck": true,
-    "esModuleInterop":true,
-    "paths": {
-      "packages/*": ["./packages/*"],
-    }
+    "esModuleInterop": true,
+    "allowJs": true,
+    "forceConsistentCasingInFileNames": true,
+    "isolatedModules": true,
+    "noEmit": true
   },
-  "include": ["packages/**/*"],
-  "exclude": ["node_modules"]
+  "include": [
+    "src"
+  ]
 }
