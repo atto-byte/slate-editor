@@ -5,7 +5,6 @@ import { BlockPlugin, MarkButtonProps } from '../editor/types';
 import ImageModal from './ImageModal';
 import isUrl from 'is-url'
 
-import { css } from 'emotion'
 import { EventHook, getEventTransfer } from 'slate-react';
 import { insertImage, isImage } from './ImageUtils';
 import ImageNode from './ImageNode';
