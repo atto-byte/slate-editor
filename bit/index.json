@@ -1,0 +1,170 @@
+[
+  {
+    "id": {
+      "scope": "atto-byte.env",
+      "name": "compiler/react-typescript"
+    },
+    "isSymlink": false,
+    "hash": "0351b72d7d1771bf5d784d2ba5f2e5048e01fd3f"
+  },
+  {
+    "id": {
+      "scope": "bit.utils",
+      "name": "object/has-own-property"
+    },
+    "isSymlink": false,
+    "hash": "68b489f0ac79f13787c77dc1fd6a7beb18a7b6ba"
+  },
+  {
+    "id": {
+      "scope": "bit.utils",
+      "name": "object/group-by"
+    },
+    "isSymlink": false,
+    "hash": "9155f60c15a0d4c1c0301f15ef2a09a99687ca77"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "plugin/alignment"
+    },
+    "isSymlink": true,
+    "hash": "828c19df507735b2e2380381c45e25a0ab65ce65"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "plugin/bold"
+    },
+    "isSymlink": true,
+    "hash": "d0ae17a869a98daeddac270ca2a462b70a7a3ba9"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "plugin/font-family"
+    },
+    "isSymlink": true,
+    "hash": "5276250d4deb2fb2fc98673cb5705900cf62cf78"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "plugin/image"
+    },
+    "isSymlink": true,
+    "hash": "2faf46d37a5842477d9ca0b74b41c25f1100a022"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "plugin/italic"
+    },
+    "isSymlink": true,
+    "hash": "ea67eea10d21af6e7c7bd73e908a35b0cc1897ee"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "plugin/strikethrough"
+    },
+    "isSymlink": true,
+    "hash": "ed90c531439f0c43a68102ec6dfab6bd5880d082"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "plugin/underline"
+    },
+    "isSymlink": true,
+    "hash": "01111491b8a9bcd88af913e721a63bfc9de60775"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "core/editor"
+    },
+    "isSymlink": true,
+    "hash": "ae85f8ea6ee492205ee141f7d79707b8bd9613ea"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "core/components"
+    },
+    "isSymlink": true,
+    "hash": "930387695a0c1ef4c6d9001381dca24dbbf75ffa"
+  },
+  {
+    "id": {
+      "scope": "atto-byte.slate",
+      "name": "plugin/alignment"
+    },
+    "isSymlink": false,
+    "hash": "ac83b818a2fb0f90fb5f7847a3aabe01aca1f27d"
+  },
+  {
+    "id": {
+      "scope": "atto-byte.slate",
+      "name": "plugin/bold"
+    },
+    "isSymlink": false,
+    "hash": "566290f3deae34b924f504e8b675f8a670846646"
+  },
+  {
+    "id": {
+      "scope": "atto-byte.slate",
+      "name": "plugin/font-family"
+    },
+    "isSymlink": false,
+    "hash": "c53e5f2e0fb8e8b8d24c7f5d03d2be5c60331b6c"
+  },
+  {
+    "id": {
+      "scope": "atto-byte.slate",
+      "name": "plugin/image"
+    },
+    "isSymlink": false,
+    "hash": "e71140cb74102499b2beb61b73a806f70d1cef6a"
+  },
+  {
+    "id": {
+      "scope": "atto-byte.slate",
+      "name": "plugin/italic"
+    },
+    "isSymlink": false,
+    "hash": "97d68d90c76de1573e575710f877f8d80fdda3b9"
+  },
+  {
+    "id": {
+      "scope": "atto-byte.slate",
+      "name": "plugin/strikethrough"
+    },
+    "isSymlink": false,
+    "hash": "d6ec6e0f0b8dda93a441eadabcbb7e00dff77f45"
+  },
+  {
+    "id": {
+      "scope": "atto-byte.slate",
+      "name": "plugin/underline"
+    },
+    "isSymlink": false,
+    "hash": "c15fd74221fc5cf903e78fd61465c4f15f0be909"
+  },
+  {
+    "id": {
+      "scope": "atto-byte.slate",
+      "name": "core/editor"
+    },
+    "isSymlink": false,
+    "hash": "5de3dc99c335e37afee634724ff4a8910f5dcf9f"
+  },
+  {
+    "id": {
+      "scope": "atto-byte.slate",
+      "name": "core/components"
+    },
+    "isSymlink": false,
+    "hash": "ccb5916167a16774d0cd08af334b5ad1f3f01c69"
+  }
+]

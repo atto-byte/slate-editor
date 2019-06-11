@@ -1,0 +1,19 @@
+{
+    "name": "@bit/atto-byte.env.compiler.react-typescript",
+    "version": "1.0.1",
+    "homepage": "https://bit.dev/atto-byte/env/compiler/react-typescript",
+    "main": "dist/index.js",
+    "dependencies": {
+        "typescript": "^3.4.5",
+        "vinyl": "^2.2.0"
+    },
+    "devDependencies": {},
+    "peerDependencies": {},
+    "componentRootFolder": ".",
+    "license": "SEE LICENSE IN LICENSE",
+    "bit": {
+        "env": {
+            "compiler": "bit.envs/compilers/babel@7.0.1"
+        }
+    }
+}
